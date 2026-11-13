@@ -1,5 +1,17 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cipher-epi/cipher-epi.r-universe.dev
 	branch = HEAD
+[submodule "bayesian.simulations"]
+	path = bayesian.simulations
+	url = https://github.com/tfojo1/bayesian.simulations
+[submodule "distributions"]
+	path = distributions
+	url = https://github.com/tfojo1/distributions
+[submodule "jheem2"]
+	path = jheem2
+	url = https://github.com/CIPHER-Epi/jheem2
+	branch = *release
+[submodule "locations"]
+	path = locations
+	url = https://github.com/tfojo1/locations
