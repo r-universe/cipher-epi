@@ -12,7 +12,7 @@
 [submodule "jheem2"]
 	path = jheem2
 	url = https://github.com/CIPHER-Epi/jheem2
-	branch = *release
+	branch = v1.13.0
 [submodule "locations"]
 	path = locations
 	url = https://github.com/tfojo1/locations
