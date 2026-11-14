@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/cipher-epi/cipher-epi.r-universe.dev
 	branch = HEAD
-[submodule "bayesian.simulations"]
-	path = bayesian.simulations
-	url = https://github.com/tfojo1/bayesian.simulations
-	branch = master
 [submodule "distributions"]
 	path = distributions
 	url = https://github.com/tfojo1/distributions
